@@ -2,7 +2,7 @@ import java.io.IOException;
 
 // Combiner
 // https://www.beecrowd.com.br/judge/en/problems/view/1238
-public class _Main {
+public class Main {
 
     public static String ReadLine() throws IOException {
         String accumulator = "";
