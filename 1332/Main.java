@@ -1,8 +1,12 @@
+
+/*
+ * One-Two-Three
+ * https://www.beecrowd.com.br/judge/en/problems/view/1332
+ */
+
 import java.io.IOException;
 
-// One-Two-Three
-// https://www.beecrowd.com.br/judge/en/problems/view/1332
-public class _Main {
+public class Main {
 
     public static String ReadLine() throws IOException {
         String accumulator = "";
