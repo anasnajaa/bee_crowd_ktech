@@ -1,3 +1,9 @@
+
+/*
+ * Huaauhahhuahau
+ * https://www.beecrowd.com.br/judge/en/problems/view/2242
+ */
+
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
