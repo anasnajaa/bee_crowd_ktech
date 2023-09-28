@@ -1,3 +1,5 @@
+# https://www.beecrowd.com.br/judge/en/problems/view/1168
+
 # LEDS of numbers 0 1 2 3 4 5 6 7 8 9
 numbers = [6, 2, 5, 5, 4, 5, 6, 3, 7, 6]
 
